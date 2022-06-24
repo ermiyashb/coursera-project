@@ -8,10 +8,14 @@ h1 {
     background-color: bisque;
 }
 .div1 {
-    width: full;
-    border: 10px solid #f77fbe;
+    width: 28%;
+    height: 200px;
+    border: 10px solid #7a7578;
     padding: 20px;
     margin: 20px;
+    font-size: 80px;
+    text-align: center;
+    
 }
 p{
     color: #00a693;
